@@ -1,0 +1,23 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Sobreviviente<br>Violación",
+  "annotations": [
+    {
+      "start_time": 1644,
+      "end_time": 1668,
+      "annotation": [
+        {
+          "text": "Toda esa gente fue violada primero y allí la mataron solo a cuchilladas, degolladas los hicieron a toda esa gente, dicen allí. Aquí todos esos norteamericanos que andaban con ese Napoleón Medina Garay. Sí. Y así es que mataron todos esos niños tiernitos, y también una niña de dos días. Se llamaba Dominga Díaz."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "164b53d7-4e34-457c-a864-ac4991337c47"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Radio Venceremos",
+  "annotations": [
+    {
+      "start_time": 270,
+      "end_time": 286,
+      "annotation": [
+        {
+          "text": "Radio Venceremos emitiendo su señal de libertad desde el frente oriental Francisco Sánchez, que comprende los departamentos de Usulután, San Miguel, La Unión y Morazán."
+        }
+      ],
+      "tags": [],
+      "uuid": "cc9a5e9f-b8c7-4275-a0d3-f96c8f23e3a9"
+    },
+    {
+      "start_time": 315,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Acompañando al pueblo salvadoreño en su avance victorioso, Radio Venceremos en el aire, a través de la Banda Internacional de los 40 Metros 7 Mega Hercios. Radio Venceremos, expresión del poder popular sobre territorios controlados por nuestro pueblo en armas."
+        }
+      ],
+      "tags": [],
+      "uuid": "cd14accf-deb4-4b5d-a741-ec37d2c2e4b9"
+    },
+    {
+      "start_time": 358,
+      "end_time": 404,
+      "annotation": [
+        {
+          "text": "Y la iniciamos con el optimismo que embarga nuestro pueblo en estos momentos ante el avance de su lucha. Nuestras fuerzas revolucionarias han colocado a la dictadura en una posición insostenible al derrotarla en todos sus intentos de aniquilar las fuerzas del pueblo. Un signo significativo, las milicias se fortalecen en todo el país, crecen junto a su disciplina y mística revolucionaria. Nuestro ejército se fortalece y se prepara para los combates decisivos para la conquista de la paz."
+        }
+      ],
+      "tags": [],
+      "uuid": "79a118c1-84de-489a-8359-3c70066e0d6d"
+    },
+    {
+      "start_time": 405,
+      "end_time": 423,
+      "annotation": [
+        {
+          "text": "Salvadoreños, a fortalecer nuestra organización, ¡nuestra disciplina! En la hora de los hornos nuestro avance se muestra ante los pueblos del mundo como un avance a paso de vencedores."
+        }
+      ],
+      "tags": [],
+      "uuid": "da222b7c-d388-472f-83d9-9e6909c79ba0"
+    },
+    {
+      "start_time": 450,
+      "end_time": 483,
+      "annotation": [
+        {
+          "text": "Radio Venceremos envía un fraternal y combativo saludo a nuestro heroico pueblo salvadoreño, que en medio de la ley marcial, estado de sitio y de toda la represión desatada en su contra, rompe el cerco informativo, rompe las cadenas que amordazan sus manifestaciones escuchando la radio que ha venido construyendo desde sus largos años de lucha."
+        }
+      ],
+      "tags": [],
+      "uuid": "9bfc77f6-3230-47cb-b737-87fe210f9c22"
+    },
+    {
+      "start_time": 689,
+      "end_time": 703,
+      "annotation": [
+        {
+          "text": "Estamos reproduciendo una importante entrevista realizada por el periodista Gregorio Seltzer al Secretario Internacional del Partido Socialdemócrata de Suecia Pierre Schori."
+        }
+      ],
+      "tags": [],
+      "uuid": "160d7543-ce1d-4630-8e90-f0dcd66fb27e"
+    },
+    {
+      "start_time": 1170,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "text": "Han escuchado la primera parte de una importante entrevista realizada por el periodista Gregorio Selser al Secretario Internacional del Partido Socialdemócrata de Suecia Pierre Schori. Invitamos a nuestros oyentes a que continúen escuchando esta importante entrevista el día de mañana en nuestra emisión."
+        }
+      ],
+      "tags": [],
+      "uuid": "16cbb772-e77f-424d-9caa-07fdb774dab1"
+    },
+    {
+      "start_time": 1205,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "text": "Transmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional acompañando a nuestro pueblo en su combate por la paz."
+        }
+      ],
+      "tags": [],
+      "uuid": "db044b13-4e84-4d1e-b5c3-dccba4056368"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "text": "Continuamos a través de estos territorios de El Junquillo viendo casas quemadas por todos lados."
+        }
+      ],
+      "tags": [],
+      "uuid": "39bd7842-f884-4ce2-937e-8348476426da"
+    },
+    {
+      "start_time": 2214,
+      "end_time": 2221,
+      "annotation": [
+        {
+          "text": "Desde El Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo."
+        }
+      ],
+      "tags": [],
+      "uuid": "26ed3494-83b2-4ecc-bdb6-973accf0d635"
+    },
+    {
+      "start_time": 2222,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "text": "Transmite Radio Venceremos, voz oficial del frente Farabundo Martí para la liberación nacional emitiendo su señal de libertad desde El Salvador, Centroamérica."
+        }
+      ],
+      "tags": [],
+      "uuid": "c6bca9b9-6aaa-4e36-8540-e74856ce4b72"
+    }
+  ]
+}

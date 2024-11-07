@@ -1,0 +1,135 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Periodista",
+  "annotations": [
+    {
+      "start_time": 559,
+      "end_time": 567,
+      "annotation": [
+        {
+          "text": "Nos interesaría saber cuál es el estado actual de las gestiones pendientes a lograr una solución política en El Salvador."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "ff6bef8a-2e5a-424c-8b29-8c5adcb6e447"
+    },
+    {
+      "start_time": 618,
+      "end_time": 619,
+      "annotation": [
+        {
+          "text": "Díganos lo que sea posible decir."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "c10e216a-4ab0-4395-8598-b4e89e426ea2"
+    },
+    {
+      "start_time": 704,
+      "end_time": 720,
+      "annotation": [
+        {
+          "text": "¿A qué se debería esa posición renuente, resistente o contraria de los Estados Unidos y de la Junta militar Democristiana? ¿Cuál es la expectativa que alberga el propósito que les anima al obrar de ese modo?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "71272abb-1ced-4711-9647-15d83216a143"
+    },
+    {
+      "start_time": 792,
+      "end_time": 812,
+      "annotation": [
+        {
+          "text": "Mencionó usted la cuantiosa magnitud de armas que envía Estados Unidos, teniendo en cuenta que usted ha estado hace pocos días en Honduras y además por la información que fluye hacia Europa. ¿Existe igualmente un aumento en el número de los llamados asesores militares norteamericanos?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "cdeacf94-0451-4a9f-93f2-5bd82423bc48"
+    },
+    {
+      "start_time": 860,
+      "end_time": 906,
+      "annotation": [
+        {
+          "text": "¿Cuál fue el resultado de las gestiones del Señor Wischnewsky en la región? ¿Tuvo buen éxito o fracasó? Lo decimos porque de acuerdo con las declaraciones que se le hicieron a los periódicos como el New York Times y el Washington Post tanto Duarte como funcionarios norteamericanos mostraron al Señor Wischnewsky un documento atribuido al Frente Democrático Revolucionario y al Frente Farabundo Martí para la Liberación Nacional según el cual la gestión en procura de pláticas y políticas no era sino una forma de ganar tiempo con vistas a mejorar su propia situación en la mesa de negociaciones."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "58590480-0763-408f-a198-91e543f074af"
+    },
+    {
+      "start_time": 960,
+      "end_time": 964,
+      "annotation": [
+        {
+          "text": "¿Qué cambió en la situación? ¿Se trata de un cambio de estrategia?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "a7b77035-3460-4978-b825-6db948c54268"
+    },
+    {
+      "start_time": 981,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "text": "Acerca de la reunión del 30 de abril de la Socialdemocracia Europea en Ámsterdam se apreció unanimidad en la apreciación de la situación salvadoreña. ¿Hubo consenso en torno de las gestiones en favor de la solución política o como lo sugiere cierta prensa, alguien se expidió en forma coincidente con las postulaciones de la democracia cristiana europea o latinoamericana?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "32f28cd4-704b-4e10-a4db-c20aa4e1ed7d"
+    },
+    {
+      "start_time": 1055,
+      "end_time": 1076,
+      "annotation": [
+        {
+          "text": "¿Por qué esta dedicación? No a pocos observadores les llama la atención esta dedicación de la socialdemocracia europea en los asuntos centroamericanos. Antes Nicaragua, ahora El Salvador, Honduras y Guatemala. ¿Desea referirse al tema?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Seltzer"
+        }
+      ],
+      "uuid": "3c8d6cf8-2cb6-40f5-bb20-24e1bd593556"
+    }
+  ]
+}

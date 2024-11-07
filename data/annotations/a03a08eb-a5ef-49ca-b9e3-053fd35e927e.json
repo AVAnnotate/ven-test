@@ -1,0 +1,39 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Poderes Creadores del Pueblo",
+  "annotations": [
+    {
+      "start_time": 2249,
+      "end_time": 2253,
+      "annotation": [
+        {
+          "text": "“Los poderes creadores del pueblo”"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poderes_Creadores"
+        }
+      ],
+      "uuid": "d433b8c2-e462-4dfa-9338-410dbe49f8b2"
+    },
+    {
+      "start_time": 2359,
+      "end_time": 2363,
+      "annotation": [
+        {
+          "text": "Estos son los poderes creadores del pueblo."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Poderes_Creadores"
+        }
+      ],
+      "uuid": "ac3cc288-b25d-4cea-8c24-0452527ce3d7"
+    }
+  ]
+}

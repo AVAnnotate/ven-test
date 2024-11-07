@@ -1,0 +1,536 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Entrevistador",
+  "annotations": [
+    {
+      "start_time": 1337,
+      "end_time": 1340,
+      "annotation": [
+        {
+          "text": "¿Podría describirnos qué es lo que estamos viendo en este momento?"
+        }
+      ],
+      "tags": [],
+      "uuid": "673481ad-19fe-4783-9bdb-bd3465b59a72"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "text": "¿En qué circunstancias murieron estas personas?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "f620d879-7f12-4a56-bd4f-edfe9bdcbc38"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "text": "¿En total cuántas personas mataron aquí?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "b78a5b82-6b71-4acf-9cf2-cad7b1af2326"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "text": "¿Sabe alrededor de cuántos niños mataron aquí en esta zona?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "32655569-ec98-40dd-9f1c-f25d804ef8fe"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1422,
+      "annotation": [
+        {
+          "text": "Realmente las escenas, repetimos, que estamos viendo en este momento nos dicen, nos hablan sobre el carácter genocida del alto mando militar. Acá en El Junquillo quedó realmente la huella de la bestia que significa para El Salvador una dictadura que ha perdido toda noción de humanidad, que desesperada asesina a campesinos, a mujeres y niños, estando organizados o no estando organizados."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "78d0bc52-2993-4f9c-af5e-c667278f7f5a"
+    },
+    {
+      "start_time": 1431,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "text": "Compañero, ¿y dónde encontraron el cuerpo de la muchacha?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "7f88e98f-29d2-4943-a534-ae003d4174bf"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "text": "Ahora nos encontramos en la segunda casa quemada aquí en El Junquillo. Aquí fue donde Napoleón Medina Garay mandó, ordenó el asesinato de un niño de dos días apenas de nacido. Todo destruido, absolutamente todo, camas, las sillas. Acá no queda nada de pie, nada en perfecto estado."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "20cefef0-a2cb-4eb6-8cf6-48f7833ddc8e"
+    },
+    {
+      "start_time": 1508,
+      "end_time": 1512,
+      "annotation": [
+        {
+          "text": "¿Aquí fue donde encontraron a un niño de dos días de nacido atravesado por un corvo?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "47b45000-844d-488a-b00c-cfe35f08b5f7"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "text": "En este momento, Radio Venceremos se encuentra con algunas compañeras sobrevivientes de la matanza de El Junquillo. Con nosotros está la compañera Marlene."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Morazán"
+        }
+      ],
+      "uuid": "3ff5bb16-3d00-47f5-ad60-303c911e1089"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1575,
+      "annotation": [
+        {
+          "text": "Marlene, ¿podrías contarnos para Radio Venceremos qué familiares perdíste aquí en la masacre de El Junquillo?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Morazán"
+        }
+      ],
+      "uuid": "acf449bb-9788-47c6-b379-89e8b4d3424a"
+    },
+    {
+      "start_time": 1641,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "text": "Cuéntenos cómo sucedió todo."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "21c14d39-e879-47b8-b28d-8fbeff019afd"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1684,
+      "annotation": [
+        {
+          "text": "¿Cuál es tu nombre?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "58fefef7-707f-4e62-9427-59a12170a27e"
+    },
+    {
+      "start_time": 1686,
+      "end_time": 1688,
+      "annotation": [
+        {
+          "text": "Cuéntanos, ¿perdiste familia aquí también en El Junquillo?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "0f03d50f-c08a-4234-896c-90ee69b3124a"
+    },
+    {
+      "start_time": 1691,
+      "end_time": 1692,
+      "annotation": [
+        {
+          "text": "¿A siete de tu familia?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "e5a45487-b571-4074-b3d3-a3c90eeb9781"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "text": "¿Quiénes fueron?"
+        }
+      ],
+      "tags": [],
+      "uuid": "5af94ef1-7076-4c79-92f1-8abc4088278e"
+    },
+    {
+      "start_time": 1711,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "text": "¿De Cacaopera? ¿Junto con Medina Garay?"
+        }
+      ],
+      "tags": [],
+      "uuid": "c48d903a-bd2a-43c2-bcf5-f3f1058da308"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1803,
+      "annotation": [
+        {
+          "text": "Y en esta casa que estamos ahora pasando, también asesinaron, ¿a cuántas personas?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "57e20edc-05a4-4d64-b513-189f9c3dc7be"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1836,
+      "annotation": [
+        {
+          "text": "Ahora cruzamos la quebrada El Chupadero. Continuamos trasladándonos a través de este cantón del Junquillo y el paisaje de desolación es el mismo, casas quemadas, rastros de restos humanos."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Morazán"
+        }
+      ],
+      "uuid": "b951cc6a-7d05-4606-ac79-138519eef744"
+    },
+    {
+      "start_time": 1837,
+      "end_time": 1876,
+      "annotation": [
+        {
+          "text": "En esta oportunidad nos hemos conseguido con un campesino de la zona, su nombre es Filadelfo. En estos momentos nos estamos acercando a la casa donde vivía su esposa y sus hijos. Es un camino de regreso a un recuerdo doloroso que Filadelfo ha querido hacer para llevar al mundo todo el horror, toda la característica genocida que se dio acá en esta zona del Junquillo. Compañero, cuéntenos cuántas personas vivían en esta casa."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "d1210fb0-64cf-4cd5-9b9c-605ec681bac6"
+    },
+    {
+      "start_time": 1884,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "text": "Su esposa murió, ¿quiénes más?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "cc326942-2134-4407-bd88-c7075b5ff5e1"
+    },
+    {
+      "start_time": 1896,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "text": "¿Cuántos hijos le mataron?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "c02e6f4b-dba6-4f7a-88db-95694a976c9c"
+    },
+    {
+      "start_time": 1899,
+      "end_time": 1899,
+      "annotation": [
+        {
+          "text": "¿Qué edad tenían sus niños?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "f844a541-9001-4191-93a5-efb281fb7389"
+    },
+    {
+      "start_time": 1905,
+      "end_time": 1905,
+      "annotation": [
+        {
+          "text": "¿Dos meses de nacido?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "01615d71-5319-4519-826f-912b4bf5b534"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1952,
+      "annotation": [
+        {
+          "text": "Con nosotros otro compañero sobreviviente de la masacre de El Junquillo. Compañero, cuéntenos cómo fue que sucedió todo."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "7570ee64-6fc4-46ac-bd6a-1a702f70cf05"
+    },
+    {
+      "start_time": 1964,
+      "end_time": 1965,
+      "annotation": [
+        {
+          "text": "¿Eso fue el 12 de marzo?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "22ff8653-89c3-4e89-85af-5af19809c642"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 1984,
+      "annotation": [
+        {
+          "text": "¿Por qué fue que mucha gente no huyó ante la llegada de los cuilios?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "37410c77-ab7e-40a6-9035-d3ffa12c897b"
+    },
+    {
+      "start_time": 2011,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "text": "Ahora estamos acá con una niña sobreviviente también de la masacre del Junquillo. ¿Cuál es tu nombre?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "88c1b4ed-1a09-4be9-980d-a57be5608756"
+    },
+    {
+      "start_time": 2021,
+      "end_time": 2025,
+      "annotation": [
+        {
+          "text": "Cuéntanos Victoria, cómo sucedió todo aquí en el Junquillo."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "de60034c-16ed-4ae1-92d7-ef7620508223"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2076,
+      "annotation": [
+        {
+          "text": "¿Cuántas personas de tu familia asesinó Medina Garay?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "83ad9e59-4bed-495f-b107-059763850bdf"
+    },
+    {
+      "start_time": 2091,
+      "end_time": 2093,
+      "annotation": [
+        {
+          "text": "¿Y vos pudiste huir antes de que llegaran los cuilios?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "2349396e-ddd6-40f6-a19e-fb9651201ab7"
+    },
+    {
+      "start_time": 2101,
+      "end_time": 2109,
+      "annotation": [
+        {
+          "text": "Perdóname, se te está quemando el maicillo. ¿Vos qué querés para El Salvador?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "6fbdf238-ea0d-49a0-bb58-a31e345d5d4c"
+    },
+    {
+      "start_time": 2116,
+      "end_time": 2117,
+      "annotation": [
+        {
+          "text": "¿Qué edad tenés vos?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "6bfac3e0-aa11-44fa-b61f-b3937101d936"
+    },
+    {
+      "start_time": 2119,
+      "end_time": 2119,
+      "annotation": [
+        {
+          "text": "Sí."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "81133c0c-b6d0-49e5-bfcf-25e43fcc2954"
+    },
+    {
+      "start_time": 2123,
+      "end_time": 2124,
+      "annotation": [
+        {
+          "text": "¿Qué es para vos un país liberado?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "El_Junquillo"
+        }
+      ],
+      "uuid": "9e529d36-cfab-4fc4-bb32-c23ac77a64a8"
+    }
+  ]
+}

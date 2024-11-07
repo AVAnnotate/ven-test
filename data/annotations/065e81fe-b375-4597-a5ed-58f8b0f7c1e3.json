@@ -1,0 +1,23 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Efecto de sonido",
+  "annotations": [
+    {
+      "start_time": 2131,
+      "end_time": 2142,
+      "annotation": [
+        {
+          "text": "(Sonidos ambientales)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Sonidos"
+        }
+      ],
+      "uuid": "bf42b733-5d23-4198-afbc-83d31500a66b"
+    }
+  ]
+}

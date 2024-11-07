@@ -1,0 +1,29 @@
+{
+  "event_id": "3669024a-f719-4217-a5a0-869e6f492c6d",
+  "source_id": "7f1a2b71-5eab-4cf4-bd55-5001b0ace08b",
+  "set": "Radio Venceremos<br>FMLN",
+  "annotations": [
+    {
+      "start_time": 232,
+      "end_time": 251,
+      "annotation": [
+        {
+          "text": "Transmite Radio Venceremos, voz oficial del Frente Farabundo Martí para la Liberación Nacional. Emitiendo su señal de libertad desde El Salvador, Centroamérica, territorio en combate contra la opresión y el imperialismo."
+        }
+      ],
+      "tags": [],
+      "uuid": "f5f6454d-37e2-4d5f-aeee-f89d9f773d98"
+    },
+    {
+      "start_time": 484,
+      "end_time": 507,
+      "annotation": [
+        {
+          "text": "Radio Venceremos, voz oficial del Frente Farabundo Martí, voz del pueblo salvadoreño en armas. Salud heroico pueblo salvadoreño. Radio Venceremos te saluda. El presente es de lucha, el futuro es nuestro."
+        }
+      ],
+      "tags": [],
+      "uuid": "32fa1bf3-0c9c-419b-84ff-111944e04374"
+    }
+  ]
+}
